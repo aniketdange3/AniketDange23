@@ -5,8 +5,13 @@
 1. React js
 2. express js 
 3. mangoDB
-4. bootstrap
+4. Bootstrap
 5. MySQL 
+6. Figma
+7. Wix
+8. Node js
+9. WordPress
+10. MySql
 
 ## Projects 
  Here are a few of my notable projects:
