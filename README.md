@@ -1,26 +1,78 @@
-<h1 align="center">Hi 👋, I'm Aniket Dange</h1>
-<h3 align="center">I specialize in MERN Stack, and I have a strong background in React-js,Monago. My portfolio showcases some of my favorite projects and achievements, and I'm always looking for new opportunities to grow and learn as a developer.</h3>
+# Hi there! 👋 I'm Aniket Dange
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketdange23&label=Profile%20views&color=0e75b6&style=flat" alt="aniketdange23" /> </p>
+Welcome to my portfolio! I’m a passionate MERN Stack developer with a strong background in **React.js** and **MongoDB**. I love crafting dynamic, efficient, and user-friendly web applications. Below you'll find more about my work, my current focus, and how you can connect with me.
 
-<p align="left"> <a href="https://twitter.com/the_aniket23" target="blank"><img src="https://img.shields.io/twitter/follow/the_aniket23?logo=twitter&style=for-the-badge" alt="the_aniket23" /></a> </p>
+> *"The best way to predict the future is to invent it."*  
+> — Alan Kay
 
-- 🔭 I’m currently working on **React**
+## 🔭 Current Focus
 
-- 🌱 I’m currently learning **Next js**
+I'm currently working on **React.js**, creating engaging and performant user interfaces. Additionally, I’m diving into **Next.js** to enhance my full-stack development skills and exploring **React Native** for mobile app development.
 
-- 💬 Ask me about **React**
+## 🌱 Learning & Growth
 
-- 📫 How to reach me **aniketdange2321@gmail.com**
+I’m actively learning **Next.js** and **React Native** to expand my expertise and stay updated with the latest advancements in web and mobile development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/the_aniket23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_aniket23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-dange/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniket-dange/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/aniketdange1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/aniketdange1" height="30" width="40" /></a>
-</p>
+## 💬 Ask Me About
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- **React.js**: Components, hooks, state management, and more.
+- **MERN Stack**: From MongoDB to Node.js, I’m well-versed in the full stack.
+- **React Native**: Building cross-platform mobile applications.
+- **Front-End Design**: Tips on using CSS3, Tailwind, and Figma for beautiful and responsive designs.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketdange23&show_icons=true&locale=en&layout=compact" alt="aniketdange23" /></p>
+> *"Design is not just what it looks like and feels like. Design is how it works."*  
+
+## 📫 How to Reach Me
+
+Feel free to reach out via email for collaboration or inquiries:  
+[aniketdange309@gmail.com](mailto:aniketdange309@gmail.com)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/aniket-dange/)
+- [Dribbble](https://dribbble.com/aniketrdange)
+
+## Languages and Tools
+
+- **Languages**: JavaScript, HTML5, CSS3
+- **Frameworks/Libraries**: React, Redux, Next.js, React Native
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Tools**: Git, Figma, Firebase, Photoshop
+- **Styling**: Tailwind CSS, Framer
+
+## Projects
+
+Here are some of my favorite projects that showcase my skills and expertise:
+
+### [Project 1: E-Commerce Platform](#)  
+A full-stack e-commerce application built with React.js, Node.js, and MongoDB. Features include user authentication, product management, and a responsive design.
+
+![E-Commerce Platform](https://via.placeholder.com/600x400?text=E-Commerce+Platform)
+
+### [Project 2: Portfolio Website](#)  
+My personal portfolio website showcasing my projects, skills, and achievements. Built with React.js and styled with Tailwind CSS.
+
+![Portfolio Website](https://via.placeholder.com/600x400?text=Portfolio+Website)
+
+### [Project 3: Social Media Dashboard](#)  
+A real-time social media dashboard application with features for data visualization and user interaction. Implemented using React.js and Firebase.
+
+![Social Media Dashboard](https://via.placeholder.com/600x400?text=Social+Media+Dashboard)
+
+### [Project 4: Mobile App with React Native](#)  
+A cross-platform mobile application developed with React Native, showcasing a smooth and intuitive user experience on both iOS and Android.
+
+![Mobile App with React Native](https://via.placeholder.com/600x400?text=Mobile+App+with+React+Native)
+
+## Design Work
+
+Check out some of my design work on Figma:
+
+- [Figma Design 1](https://www.figma.com/file/your-design-link-1)
+- [Figma Design 2](https://www.figma.com/file/your-design-link-2)
+
+Feel free to explore these projects and let me know if you have any questions or opportunities for collaboration!
+
+> *"Creativity is intelligence having fun."*  
+
